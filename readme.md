@@ -1,5 +1,7 @@
 # MetaCraft RolePlay Resource Pack
 
+![Screenshot](screen.png)
+
 This repository contains a custom resource pack for MetaCraft RolePlays, designed to enhance the Minecraft experience on the MetaCraft server.
 
 ## Installation
@@ -30,8 +32,6 @@ This resource pack is force-loaded on the MetaCraft server to ensure all players
 
 ### Public Skins
 
-![Screenshot](screen.png)
-
 The resource pack adds custom skins to various items. These skins can be accessed using the following commands:
 
 - **Item:** `carved_pumpkin`
@@ -43,7 +43,7 @@ The resource pack adds custom skins to various items. These skins can be accesse
   - `/trigger CustomModelData set 6`: Balloon
   - `/trigger CustomModelData set 7`: Mask
 
-### Roleplay-Specific Skins
+### User-Specific Skins
 
 Certain custom skins are exclusive to specific roleplay players and can only be used by them:
 
