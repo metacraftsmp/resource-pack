@@ -41,8 +41,7 @@ The resource pack adds custom skins to various items. These skins can be accesse
   - `/trigger CustomModelData set 4`: Miner Hat
   - `/trigger CustomModelData set 5`: MetaCraft Document
   - `/trigger CustomModelData set 6`: Balloon
-  - `/trigger CustomModelData set 7`: Walking Stick
-  - `/trigger CustomModelData set 8`: Mask
+  - `/trigger CustomModelData set 7`: Mask
 
 ### Roleplay-Specific Skins
 
@@ -57,6 +56,10 @@ Certain custom skins are exclusive to specific roleplay players and can only be 
 - **User:** `wikiweb`
   - **Item:** `bow`
     - `/trigger CustomModelData set 600001`: Winchester Gun
+
+- **User:** `Milad148`
+   - **Item:** `carved_pumpkin`
+      - `/trigger CustomModelData set 140801`: Walking Stick
 
 ## Contributing
 
