@@ -1,4 +1,4 @@
-# MetaCraft Resource Pack
+# MetaCraft RolePlay Resource Pack
 
 This repository contains a custom resource pack for MetaCraft RolePlays, designed to enhance the Minecraft experience on the MetaCraft server.
 
