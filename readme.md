@@ -54,8 +54,10 @@ Certain custom skins are exclusive to specific roleplay players and can only be 
     - `/trigger CustomModelData set 120003`: Camera
 
 - **User:** `wikiweb`
-  - **Item:** `bow`
-    - `/trigger CustomModelData set 600001`: Winchester Gun
+   - **Item:** `bow`
+      - `/trigger CustomModelData set 600001`: Winchester Gun
+   - **Item:** `carved_pumpkin`
+      - `/trigger CustomModelData set 600003`: Sherriff Hat
 
 - **User:** `Milad148`
    - **Item:** `carved_pumpkin`
