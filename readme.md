@@ -42,6 +42,7 @@ The resource pack adds custom skins to various items. These skins can be accesse
   - `/trigger CustomModelData set 5`: MetaCraft Document
   - `/trigger CustomModelData set 6`: Balloon
   - `/trigger CustomModelData set 7`: Mask
+  - `/trigger CustomModelData set 9`: Crown
 
 ### User-Specific Skins
 
@@ -62,6 +63,20 @@ Certain custom skins are exclusive to specific roleplay players and can only be 
 - **User:** `Milad148`
    - **Item:** `carved_pumpkin`
       - `/trigger CustomModelData set 140801`: Walking Stick
+
+- **User:** `Captain Pyro`
+  - **Item:** `carved_pumpkin`
+    - `/trigger CustomModelData set 858585`: Gold Neckless
+
+- **User:** `Mak_raven`
+  - **Item:** `carved_pumpkin`
+    - `/trigger CustomModelData set 900001`: Zanboor
+
+- **User:** `Ribity`
+  - **Item:** `pufferfish`
+    - `/trigger CustomModelData set 421421`: Blue Mavad
+  - **Item:** `suspicious_stew`
+    - `/trigger CustomModelData set 421421`: Green Mavad
 
 ## Contributing
 
