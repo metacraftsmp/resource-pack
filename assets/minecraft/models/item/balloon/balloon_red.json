@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/balloon",
-		"particle": "item/balloon"
+		"0": "item/balloon/ballon_red",
+		"particle": "item/balloon/ballon_red"
 	},
 	"elements": [
 		{

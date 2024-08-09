@@ -1,0 +1,70 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/magician_hat"
+	},
+	"elements": [
+		{
+			"from": [0, 2, 0],
+			"to": [16, 20, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 2, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 8.25], "texture": "#0"},
+				"east": {"uv": [0, 0, 8, 8.25], "texture": "#0"},
+				"south": {"uv": [0, 0, 8, 8.25], "texture": "#0"},
+				"west": {"uv": [0, 0, 8, 8.25], "texture": "#0"},
+				"up": {"uv": [0, 8.75, 7.75, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 8, 8.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-4, 0, -4],
+			"to": [20, 2, 20],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4, 0, -4]},
+			"faces": {
+				"north": {"uv": [1.5, 3.5, 7.5, 4], "texture": "#0"},
+				"east": {"uv": [1.5, 4, 7.5, 4.5], "texture": "#0"},
+				"south": {"uv": [1.5, 4.5, 7.5, 5], "texture": "#0"},
+				"west": {"uv": [1.5, 5, 7.5, 5.5], "texture": "#0"},
+				"up": {"uv": [7.75, 16, 0, 8.5], "texture": "#0"},
+				"down": {"uv": [15.75, 8.5, 8.25, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 1, -2],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 1, -2],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"firstperson_righthand": {
+			"translation": [5.75, 1, -2],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"translation": [5.75, 1, -2],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [-0.25, 1, 2],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [16, 0, 0],
+			"translation": [-0.25, -0.5, -2],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"rotation": [-10, 0, 0],
+			"translation": [0, 9.5, -1.25]
+		},
+		"fixed": {
+			"translation": [-0.5, -0.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}
