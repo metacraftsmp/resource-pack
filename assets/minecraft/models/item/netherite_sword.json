@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_sword"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 400}, "model": "item/immortal_sword"},
+    {"predicate": {"custom_model_data": 402}, "model": "item/staff_of_homa"},
+    {"predicate": {"custom_model_data": 403}, "model": "item/primordial_spear"},
+    {"predicate": {"custom_model_data": 404}, "model": "item/primordial_jade_cutter"}
+  ]
+}
