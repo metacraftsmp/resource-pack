@@ -46,7 +46,9 @@
           },
           "model": "item/bow_pulling_2"
       },
-        {"predicate": {"custom_model_data": 600001}, "model": "item/winchester"}
+      {"predicate": {"custom_model_data": 405}, "model": "item/amos_bow_standby"},
+      {"predicate": {"custom_model_data": 120027}, "model": "item/glock17"},
+      {"predicate": {"custom_model_data": 600001}, "model": "item/winchester"}
     ]
   }
   

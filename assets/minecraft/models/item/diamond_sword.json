@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/diamond_sword"
   },
   "overrides": [
+    {"predicate": {"custom_model_data": 120023}, "model": "item/chainsaw"},
     {"predicate": {"custom_model_data": 160001}, "model": "item/katana"}
 
     ]

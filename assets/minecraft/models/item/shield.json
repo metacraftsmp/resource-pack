@@ -48,6 +48,8 @@
             },
             "model": "item/shield_blocking"
         },
+        {"predicate": {"custom_model_data": 10}, "model": "item/cross"},
         {"predicate": {"custom_model_data": 858560}, "model": "item/pip_boy"}
+        
     ]
 }
