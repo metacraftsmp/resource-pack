@@ -3,6 +3,9 @@
   "textures": {
     "layer0": "minecraft:item/golden_carrot"
   },"overrides": [
-    {"predicate": {"custom_model_data": 300}, "model": "item/hotdog"}
+    {"predicate": {"custom_model_data": 300}, "model": "item/hotdog"},
+    {"predicate": {"custom_model_data": 170002}, "model": "item/milkshake"},
+    {"predicate": {"custom_model_data": 170003}, "model": "item/oreo_milk"},
+    {"predicate": {"custom_model_data": 170004}, "model": "item/sweet_berries_milk"}
   ]
 }
