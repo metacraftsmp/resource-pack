@@ -4,6 +4,9 @@
     "layer0": "minecraft:item/suspicious_stew"
   },
   "overrides": [
+    {"predicate": {"custom_model_data": 600}, "model": "item/sagi"},
+    {"predicate": {"custom_model_data": 601}, "model": "item/sharab"},
+    {"predicate": {"custom_model_data": 602}, "model": "item/vodi"},
     {"predicate": {"custom_model_data": 420420}, "model": "item/suspicious_material2"}
 
     ]

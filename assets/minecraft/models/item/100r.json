@@ -1,0 +1,46 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/bill",
+		"particle": "item/bill"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [12, 6, 0],
+			"faces": {
+				"north": {"uv": [0.53333, 5.6, 12.4, 7.86667], "texture": "#0"},
+				"south": {"uv": [0.66667, 5.46667, 12.53333, 7.86667], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [3.99, -30.87, 14.37],
+			"translation": [-3.5, 3.25, 2.75],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [3.99, -30.87, 14.37],
+			"translation": [-3.5, 3.25, 2.75],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [3, -25, 0],
+			"translation": [10, 1.25, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [3, -25, 0],
+			"translation": [5.75, 1.25, 0]
+		},
+		"ground": {
+			"translation": [2, 4.75, 8.5]
+		},
+		"gui": {
+			"translation": [2.5, 5, 0]
+		},
+		"fixed": {
+			"translation": [2, 5.5, 8.75]
+		}
+	}
+}

@@ -1,6 +1,10 @@
 {
   "pack": {
-    "pack_format": 7,
+    "pack_format": 15,
+    "supported_formats": {
+			"min_inclusive": 7,
+			"max_inclusive": 15
+		},
     "description": "Custom Model For MetaCraft RolePlays"
   }
 }
